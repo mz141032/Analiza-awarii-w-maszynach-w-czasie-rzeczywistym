@@ -1,4 +1,4 @@
-# 🛠️ Monitoring Awariów Maszyn – Projekt Real-Time Analytics
+# 🛠️ Monitoring Awarii Maszyn – Projekt Real-Time Analytics
 
 Projekt stworzony w ramach przedmiotu *Analiza danych w czasie rzeczywistym*.  
 Celem jest wykrywanie potencjalnych awarii maszyn na podstawie danych strumieniowych oraz podejmowanie decyzji biznesowych w czasie rzeczywistym.
